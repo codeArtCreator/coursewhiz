@@ -571,7 +571,6 @@ nav {
 
 /* Testimonials */
 .testimonials {
-  margin-bottom: 18rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -599,13 +598,10 @@ nav {
   grid-template-rows: 400px;
   grid-column-gap: 20px;
   margin-top: 2rem;
-  
-  
 }
 .swiper .left,
 .swiper .right {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
-
 }
 .swiper .left,
 .swiper .right {
@@ -639,7 +635,6 @@ nav {
   grid-template-rows: 400px;
   background: #fff;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
-
 }
 .swiper-content {
   display: flex;
@@ -730,6 +725,7 @@ nav {
   align-items: center;
   justify-content: center;
   position: relative;
+  margin-top: 18rem;
 }
 .footer-logo-sec {
   padding-top: 10rem;
